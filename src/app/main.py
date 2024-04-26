@@ -52,7 +52,7 @@ def visualize_data(df):
 
 def main():
     # Load data
-    df = load_data("../data/sierraleone-bumbuna.csv")
+    df = load_data("./data/sierraleone-bumbuna.csv")
 
     # Preprocess data
     df = preprocess_data(df)
