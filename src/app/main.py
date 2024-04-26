@@ -18,7 +18,6 @@ def visualize_data(df):
         'Histograms',
         'Box Plots',
         'Scatter Plots',
-        'Cleaning Data'
     ])
 
     if analysis_option == 'Time Series Analysis':
